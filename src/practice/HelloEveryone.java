@@ -15,5 +15,6 @@ public class HelloEveryone {
 		System.out.println("girl");
 		System.out.println("update");
 		System.out.println("1");
+		System.out.println("2");
 	}
 }
