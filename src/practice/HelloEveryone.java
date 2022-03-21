@@ -9,5 +9,11 @@ public class HelloEveryone {
 		System.out.println("hi");
 		System.out.println("Jane");
 		System.out.println("Janenie");
+		System.out.println("I");
+		System.out.println("am");
+		System.out.println("cute");
+		System.out.println("girl");
+		System.out.println("update");
+		System.out.println("1");
 	}
 }
