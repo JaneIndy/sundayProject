@@ -7,5 +7,7 @@ public class HelloEveryone {
 		// TODO Auto-generated method stub
  
 		System.out.println("hi");
+		System.out.println("Jane");
+		System.out.println("Janenie");
 	}
 }
